@@ -1,3 +1,4 @@
-# web-platform-iqxteu
+# my profile
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/vdkhadke/web-platform-iqxteu)
+
+Forked from [DevPortfolio by Ryan Fitzgerald](https://github.com/RyanFitzgerald/devportfolio)
