@@ -10,7 +10,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde reprehenderit inve
 
 ![Mountain](./mountain.jpg)
 
-Aliquam aliquid rem facere dolorum consectetur consequatur distinctio [mollitia id modi repellendus](https://github.com/RyanFitzgerald/devfolio) vero quae dolorem commodi soluta voluptates iusto nobis est dolore provident, porro veritatis placeat nemo impedit! Asperiores culpa delectus hic qui saepe, ipsum quia, exercitationem repellendus magni soluta sit suscipit laborum ducimus.
+Aliquam aliquid rem facere dolorum consectetur consequatur distinctio [mollitia id modi repellendus](https://github.com/Fitzgerald/devfolio) vero quae dolorem commodi soluta voluptates iusto nobis est dolore provident, porro veritatis placeat nemo impedit! Asperiores culpa delectus hic qui saepe, ipsum quia, exercitationem repellendus magni soluta sit suscipit laborum ducimus.
 
 ## Asperiores culpa delectus hic qui saepe
 
